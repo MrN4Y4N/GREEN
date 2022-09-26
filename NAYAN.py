@@ -86,7 +86,7 @@ def back():
 
 ahsan="Mr-"
 imt="-2.0=="
-ak="K4US4R-"
+ak=N4Y4N-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
