@@ -86,7 +86,7 @@ def back():
 
 ahsan="Mr-"
 imt="-2.0=="
-ak=N4Y4N-"
+ak="N4Y4N-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
@@ -396,14 +396,14 @@ logo = ("""
 \x1b[1;92m ##   ### ##     ##    ##    ##     ## ##   ###
 \x1b[1;92m ##    ## ##     ##    ##    ##     ## ##    ##  
 
-   \x1b[1;92m┍━━━━━━━━━━━━━━━━━━━━━━
+   \x1b[1;92m┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    \x1b[1;92m➣TOOL NAME : FB CLONING TOOLS
    \x1b[1;92m➣AUTHOR    : SwApno Nayan       
    \x1b[1;92m➣WHATSAPP    : 01791678876 
    \x1b[1;92m➣FACEBOOK  : MrN4Y4N.UID   
    \x1b[1;92m➣GitHub    : MrN4Y4N  
    \x1b[1;92m➣WHATSAPP  : 𝑺𝒘𝑨𝒑𝒏𝒐 𝑵𝑨𝒀𝑨𝑵      
-   \x1b[1;92m┕━━━━━━━━━━━━━━━━━━━━━━""")
+   \x1b[1;92m┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━""")
 
 class Main:
 	def __init__(self):
